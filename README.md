@@ -219,17 +219,7 @@ financial-document-analyzer/
 └── README.md
 ```
 
----
 
-## Notes
-
-> **Response time:** ~2 minutes on Groq free tier. The system pauses 15 seconds between agents to stay within the 12,000 TPM rate limit.
-
-> **PDF size:** Only the first 1,500 words are analyzed on the free tier. Upgrade to [Groq Dev tier](https://console.groq.com/settings/billing) for full document analysis.
-
-> **Disclaimer:** All output is for informational purposes only and does not constitute personalised financial advice. Always consult a licensed financial advisor before making investment decisions.
-
----
 
 <div align="center">
 
